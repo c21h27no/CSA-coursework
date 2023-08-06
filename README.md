@@ -1,2 +1,4 @@
 # CSA-coursework
-Backup for CSA coursework with report. This version is official one. The coursework is Game of Life and Golang-based.
+To view how to do this coursework: https://github.com/yumu987/gol-skeleton
+This coursework is Gmae of Life and is Golang-based.
+Contributor: po21744@bristol.ac.uk Yumu Xie
